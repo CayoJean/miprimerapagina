@@ -1,0 +1,21 @@
+p {
+    display:inline-block;
+}
+
+div {
+   background-color: #3104fc;
+   
+   width: 50px;
+   height: 50px;
+   display: block; 
+   }
+
+   p {
+        background-color: #3104fc;
+        
+        width: 50px;
+        height: 50px;
+        display: block; 
+        }
+
+

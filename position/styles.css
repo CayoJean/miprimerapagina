@@ -1,0 +1,15 @@
+.item-absolute {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.container .absolute {
+  position: relative;
+}
+
+.item-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
